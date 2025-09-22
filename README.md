@@ -57,6 +57,7 @@ kasper-template/
 ## 🛠️ Built With  
 - **HTML5**  
 - **CSS3**  
+- **Font Awesome** (for icons)
 
 ---
 
