@@ -6,7 +6,7 @@ This project was created as a **training exercise** by converting a **PSD design
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Website](https://nabil-hany22.github.io/Kasper-Template/)  
+🔗 [View Website](https://nabil-hany22.github.io/kasper-html-css-template/)  
 
 ---
 
